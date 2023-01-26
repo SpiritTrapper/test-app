@@ -1,5 +1,5 @@
-# designmondo-test-app
-Small text editor application for Designmondo 
+# test-text-editor-app
+Small text editor application 
 
 To launh the application you should have last Yarn and Node.js installed.
 If you have all from above installed in your computer, just type in the command line in the root of the cloned project:
